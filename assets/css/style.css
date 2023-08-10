@@ -1,5 +1,5 @@
 .student-application-bg-container {
-    background-image: url("https://img.freepik.com/free-photo/front-view-young-beautiful-lady-red-t-shirt-black-jeans-holding-different-copybooks-files-smiling-with-bag-white_140725-18639.jpg?w=996&t=st=1691654835~exp=1691655435~hmac=950a95cb0218013ff4580c679801832f9ea4379c481aa1743304bd02083462e9");
+    background-image: url("https://img.freepik.com/free-photo/front-view-young-beautiful-lady-red-t-shirt-black-jeans-holding--copybooks-files-smiling-with-bag-white_140725-18639.jpg?w=996&t=st=1691654835~exp=1691655435~hmac=950a95cb0218013ff4580c679801832f9ea4379c481aa1743304bd02083462e9");
     background-size: cover;
     height: 100vh;
 }
@@ -8,6 +8,7 @@
     padding: 20px
     font-size: 50px;
     font-weight: bold;
+    padding: 20px;
 }
 .list-student-application {
     list-style-type: none;
@@ -29,6 +30,8 @@
     height: 36px;
     border-width: 3px;
     border-color: #ff05fb;
+    font-weight: bold;
+    color: black;
     test-align: center;
     color: solid black;
     margin-left: 10px;
