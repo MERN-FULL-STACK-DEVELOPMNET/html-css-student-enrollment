@@ -36,3 +36,13 @@
     color: solid black;
     margin-left: 10px;
 } 
+.submit-button {
+    border-radius: 15px;
+    background-color: #ff03dd;
+    color: white;
+    height: 36px;
+    width: 124px;
+    font-weight: bold;
+    border-width: 0px;
+
+}
