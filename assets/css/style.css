@@ -1,0 +1,35 @@
+.student-application-bg-container {
+    background-image: url("https://img.freepik.com/free-photo/front-view-young-beautiful-lady-red-t-shirt-black-jeans-holding-different-copybooks-files-smiling-with-bag-white_140725-18639.jpg?w=996&t=st=1691654835~exp=1691655435~hmac=950a95cb0218013ff4580c679801832f9ea4379c481aa1743304bd02083462e9");
+    background-size: cover;
+    height: 100vh;
+}
+.student-application-main-heading {
+    color: #ff039e;
+    padding: 20px
+    font-size: 50px;
+    font-weight: bold;
+}
+.list-student-application {
+    list-style-type: none;
+}
+.margin-student-application {
+    margin: 20px
+}
+.student-application-description {
+    font-weight: bold;
+    color: #ff05fb;
+}
+*{
+    font-family: "Roboto";
+}
+
+.option {
+    border-radius: 25px;
+    background-color: #f58cf3;
+    height: 36px;
+    border-width: 3px;
+    border-color: #ff05fb;
+    test-align: center;
+    color: solid black;
+    margin-left: 10px;
+} 
