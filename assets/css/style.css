@@ -1,7 +1,6 @@
 .student-application-bg-container {
     background-image: url("https://img.freepik.com/free-photo/front-view-young-beautiful-lady-red-t-shirt-black-jeans-holding--copybooks-files-smiling-with-bag-white_140725-18639.jpg?w=996&t=st=1691654835~exp=1691655435~hmac=950a95cb0218013ff4580c679801832f9ea4379c481aa1743304bd02083462e9");
     background-size: cover;
-    height: 100vh;
 }
 .student-application-main-heading {
     color: #ff039e;
@@ -44,5 +43,6 @@
     width: 124px;
     font-weight: bold;
     border-width: 0px;
+    margin-left: 40vh;
 
 }
